@@ -22,13 +22,22 @@ Repository for building a DIY Lighthouse VR controller
         - Button mapping
             - A
             - B
-            - Joystick (Hall-effect compatibility)
+            - Joystick
             - System (SteamVR menu)
             - Grip (analogue value)
             - Trigger (analogue value)
         - Capacitive touch sensing availability
             - A, B, Joystick
 - Ensure compatibility and useability with existing SteamVR-native utilities
+- Design for modularity and tweakability to user-desired preferences (examples and ideas below)
+    - Individual analogue grip buttons for each finger -- explicit hardware finger tracking
+    - Capacitive touch sensing on trigger and grip buttons
+    - Hall effect joystick replacement modules (i.e. [Gulikit Steamdeck Joystick replacement module](https://www.gulikit.com/productinfo/854122.html))
+    - User-replaceable batteries
+        - Hot swappable AA, AAA sizes (allows for standard rechargeable NiMH styles)
+        - User serviceable Li-Ion battery arrays
+    - Custom SteamVR photoresistor sensor array attachment
+    - Compatibility with VR gloves (various shapes, sizes, and designs)
 
 ## Reason for project existence:
 Further documentation to be written...

@@ -41,3 +41,5 @@ Repository for building a DIY Lighthouse VR controller
 
 ## Reason for project existence:
 Further documentation to be written...
+
+[Hardware Considerations](hardware-considerations.md)

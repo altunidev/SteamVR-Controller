@@ -42,4 +42,10 @@ Repository for building a DIY Lighthouse VR controller
 ## Reason for project existence:
 Further documentation to be written...
 
+---
+
 [Hardware Considerations](hardware-considerations.md)
+
+---
+
+Another idea is to simply take an existing HTC Vive or Vive Pro controller, disassembling it, and re-wiring all triggers to work in a different form factor.

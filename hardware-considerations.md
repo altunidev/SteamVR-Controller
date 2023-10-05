@@ -5,8 +5,8 @@
 - Arduino Pro Micro
 - ESP32
 - ESP8266
-- nRF52840
-- nRF52832
+- nRF52840 (credit sctanf)
+- nRF52832 (credit sctanf)
 
 ### Buttons
 
@@ -24,6 +24,7 @@
     - no capacitive touch sensing
     - potentiometer sensor (no hall effect, prone to wear)
     - affordable option
+    - Consider firmware-based stick drift calibration fixes: https://www.youtube.com/watch?v=L2uyeBfFYp8 (credit MuffinTastic)
 
 ### Research and Development hardware
 

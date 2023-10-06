@@ -50,8 +50,6 @@ Further documentation to be written...
 
 Another idea is to simply take an existing HTC Vive or Vive Pro controller, disassembling it, and re-wiring all triggers to work in a different form factor. But it's [$200](https://www.amazon.com/dp/B07QV3VLYJ) though... (Only looking at the 2018 Vive 2.0 Wand controllers as those are Base Station 2.0 and 1.0 compatible instead of just 1.0. My R&D setup is 2.0 stations only.)
 
-Further documentation: https://skarredghost.com/2022/12/16/project-modular-open-vr-controllers-2/ (credit camacazzi)
-
 ---
 
 Other various notes that I'll sort out later:
@@ -60,3 +58,4 @@ Other various notes that I'll sort out later:
     - https://store.steampowered.com/news/app/250820/view/2898585530113864598
     - https://github.com/ValveSoftware/openvr/wiki/SteamVR-Input
 - https://hackaday.com/2021/12/16/a-hackers-journey-in-developing-a-new-vr-controller/
+- https://skarredghost.com/2022/12/16/project-modular-open-vr-controllers-2/ (credit camacazzi)

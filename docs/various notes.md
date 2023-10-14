@@ -5,3 +5,4 @@ Links and research I'll need to sort out later
     - https://github.com/ValveSoftware/openvr/wiki/SteamVR-Input
 - https://hackaday.com/2021/12/16/a-hackers-journey-in-developing-a-new-vr-controller/
 - https://skarredghost.com/2022/12/16/project-modular-open-vr-controllers-2/ (credit camacazzi)
+- https://github.com/ashtuchkin/vive-diy-position-sensor (credit Lynx)

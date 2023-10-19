@@ -24,7 +24,7 @@ For Beatsaber and other games where buttons aren’t as important
 - Trigger
 
 # Live Performer Controller
-Many many buttons, joysticks, switches, and scroll wheels
+Many many buttons, joysticks, switches, and scroll wheels. The idea is that the extra buttons may provide additional functionality without overwriting buttonmaps with existing games. For instance, OVR Advanced Settings Space Drag may have its own configuration. Additionally, there may exist, theoretically, the ability to trigger various VRChat animations with detecting button presses and mapping this through OSC. If this were available, it should also work similarly for other games with similar functionality (such as Resonite, etc.).
 
 - Button layout ideas
   - A, B, X, Y buttons

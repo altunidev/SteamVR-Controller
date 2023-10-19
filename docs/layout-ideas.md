@@ -1,5 +1,6 @@
 # Mainline Controller
-- Imitating an Oculus Quest Touch controller with button layout and system
+Imitating an Oculus Quest Touch controller with button layout and system
+
 - A+B buttons
 - System button
 - Joystick
@@ -10,7 +11,9 @@
   - https://grabcad.com/library/oculus-quest-2-right-controller-fixed-simplified-1
 
 # Minimalist Motion Controller
-- For Beatsaber and other games where buttons aren’t as important
+For Beatsaber and other games where buttons aren’t as important
+
+- Focused simply on very accurate and low-latency positional and rotational tracking
 - Only has trigger and system button
 
 # Individual Finger Controller
@@ -21,7 +24,8 @@
 - Trigger
 
 # Live Performer Controller
-- Many many buttons, joysticks, switches, and scroll wheels
+Many many buttons, joysticks, switches, and scroll wheels
+
 - Button layout ideas
   - A, B, X, Y buttons
   - System button

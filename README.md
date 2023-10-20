@@ -4,7 +4,7 @@ Hello! This repository currently contains documentation and research for a full 
 
 Project updates, as regular as they come, may be found in the [Informal Devlog](docs/informal-devlog/_intro.md).
 
-Also, follow my thought process for hardware on the [Hardware Considerations](docs/hardware-considerations.md) page, and feel free to discuss different options!
+Also, follow my thought process for hardware on the [Hardware Considerations](docs/hardware-considerations.md) page, and feel free to discuss different options! I've also got a few considerations on different variants of controllers that may provide extra functionality or razor-precise design language to a specific use-case, feel free to check out those ideas in [Layout Ideas](docs/layout-ideas.md).
 
 ## Current project status (subject to change... a lot):
 - [x] Ideation

@@ -16,6 +16,8 @@ For Beatsaber and other games where buttons aren’t as important
 - Focused simply on very accurate and low-latency positional and rotational tracking
 - Only has trigger and system button
 
+Potential "snap-on" detatchable batteries?
+
 # Individual Finger Controller
 - Three individual finger grip triggers
 - A+B buttons

@@ -83,7 +83,7 @@ These milestones are aspirational goals. However, as this is a project I'm worki
         - [ ] Reproduced
     - [ ] Alternative ideas?
 - [ ] Custom tracking solution refined - *Hopefully refined by September 2024*
-- [ ] Commissions open for low-volume hand-built controllers *Hopefully beginning October 2024*
+- [ ] Commissions open for low-volume hand-built controllers - *Hopefully beginning October 2024*
 - [ ] Production? Shipping?
 
 ## Reason for project existence:

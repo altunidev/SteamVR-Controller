@@ -64,8 +64,10 @@ These milestones are aspirational goals. However, as this is a project I'm worki
     - [ ] Tracking done through Tundra / Vive Tracker (utilizing LucidGloves driver to tie positional tracking with existing hardware)
 - [ ] New controller ergonomics in design review - *Hopefully completed by May 2024*
     - [ ] By this point in time, hopefully I'd understand how to use CAD software to some degree enough to at least have a basic controller enclosure to have something working
-- [ ] [Basic controller](/docs/variants/main-controller.md) spec in working state - *Hopefully completed by June 2024*
-- [ ] Commissions open for low-volume hand-built controllers *Hopefully beginning August 2024*
+- [ ] [Basic controller](/docs/variants/main-controller.md) v0.1 spec in working state - *Hopefully completed by June 2024*
+- [ ] Custom tracking solution in prototyping - *Hopefully in working state around July 2024*
+    - [ ] Reach out to Tundra Labs (can start earlier and begin vendor relations conversations ahead of time)
+    - [ ] ...
 - [ ] Customized controller specs in working state - *Hopefully completed by August 2024*
     - [ ] [Beatsaber motion controller](/docs/variants/motion-controller.md)
         - [ ] Designed
@@ -80,6 +82,8 @@ These milestones are aspirational goals. However, as this is a project I'm worki
         - [ ] Documented
         - [ ] Reproduced
     - [ ] Alternative ideas?
+- [ ] Custom tracking solution refined - *Hopefully refined by September 2024*
+- [ ] Commissions open for low-volume hand-built controllers *Hopefully beginning October 2024*
 - [ ] Production? Shipping?
 
 ## Reason for project existence:

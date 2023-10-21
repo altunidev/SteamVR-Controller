@@ -4,7 +4,7 @@ Hello! This repository currently contains documentation and research for a full 
 
 Project updates, as regular as they come, may be found in the [Informal Devlog](docs/informal-devlog/_intro.md).
 
-Also, follow my thought process for hardware on the [Hardware Considerations](docs/hardware-considerations.md) page, and feel free to discuss different options! I've also got a few considerations on different variants of controllers that may provide extra functionality or razor-precise design language to a specific use-case, feel free to check out those ideas in [Layout Ideas](docs/layout-ideas.md).
+Also, follow my thought process for hardware on the [Hardware Considerations](docs/hardware-considerations.md) page, and feel free to discuss different options! I've also got a few considerations on different variants of controllers that may provide extra functionality or razor-precise design language to a specific use-case, feel free to check out those ideas in [Layout Ideas](docs/variants/layout-ideas.md).
 
 ## Current project status (subject to change... a lot):
 - [x] Ideation
@@ -46,6 +46,41 @@ Also, follow my thought process for hardware on the [Hardware Considerations](do
     - Capacitive touch-pads (just an idea)
     - Custom SteamVR photoresistor sensor array attachment
     - Compatibility with VR gloves (various shapes, sizes, and designs)
+
+## Project Milestones
+
+These milestones are aspirational goals. However, as this is a project I'm working on (currently alone) on my personal time, these dates are not concrete.
+
+- [ ] Frankenstein-modded controller complete - *Hopefully completed by Dec 2023*
+    - [ ] Built from the guts of an existing SteamVR controller (potentially Vive Wand internals)
+    - [ ] In DIY-reproduceable state (documentation and guides written, will be accepting feedback)
+- [ ] New controller internals in working state - *Hopefully completed by Mar 2024*
+    - [ ] Basic microcontroller working with firmware to detect button interactions
+        - Joystick
+        - A+B buttons
+        - System button
+        - Grip
+        - Trigger
+    - [ ] Tracking done through Tundra / Vive Tracker (utilizing LucidGloves driver to tie positional tracking with existing hardware)
+- [ ] New controller ergonomics in design review - *Hopefully completed by May 2024*
+    - [ ] By this point in time, hopefully I'd understand how to use CAD software to some degree enough to at least have a basic controller enclosure to have something working
+- [ ] [Basic controller](/docs/variants/main-controller.md) spec in working state - *Hopefully completed by June 2024*
+- [ ] Commissions open for low-volume hand-built controllers *Hopefully beginning August 2024*
+- [ ] Customized controller specs in working state - *Hopefully completed by August 2024*
+    - [ ] [Beatsaber motion controller](/docs/variants/motion-controller.md)
+        - [ ] Designed
+        - [ ] Built
+        - [ ] Tested
+        - [ ] Documented
+        - [ ] Reproduced
+    - [ ] [Live performer controller](/docs/variants/pro-controller.md)
+        - [ ] Designed
+        - [ ] Built
+        - [ ] Tested
+        - [ ] Documented
+        - [ ] Reproduced
+    - [ ] Alternative ideas?
+- [ ] Production? Shipping?
 
 ## Reason for project existence:
 Further documentation to be written...

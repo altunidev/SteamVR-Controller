@@ -34,7 +34,7 @@ Potential "snap-on" extra finger grip buttons?
 # Pro Controller
 Many many buttons, joysticks, switches, and scroll wheels. Occasionally nicknamed "Live Performer Controller", "Livestreamer Controller", "MMO Controller", etc.
 
-The idea is that the extra buttons may provide additional functionality without overwriting buttonmaps with existing games. For instance, OVR Advanced Settings Space Drag may have its own configuration. Additionally, there may exist, theoretically, the ability to trigger various VRChat animations with detecting button presses and mapping this through OSC. If this were available, it should also work similarly for other games with similar functionality (such as Resonite, etc.).
+The idea is that the extra buttons may provide additional functionality without overwriting buttonmaps with existing games. For example, functions such as OVR Advanced Settings Space Drag, Speech-to-Text-to-Speech generation, and various overlay toggles may have their own button mapped configuration. Additionally, there may exist, theoretically, the ability to trigger various VRChat animations with detecting button presses and mapping this through OSC. If this were available, it should also work similarly for other games with similar functionality (such as Resonite, etc.). Essentially, if one were to describe this class of controller, it would be an MMO Mouse , or perhaps even have the ability (through software) to be classified as a Stream Deck of VR controllers.
 
 - Button layout ideas
   - A, B, X, Y buttons

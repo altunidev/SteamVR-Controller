@@ -23,6 +23,14 @@ The thinker-box.
 - ESP8266
 - nRF52840 (credit sctanf)
 - nRF52832 (credit sctanf)
+- TL448K6D-VR (Tundra Labs integrated processor)
+    - Very extensive for many use-cases
+    - Already designed for SteamVR pairing
+    - ~$52 per unit, very expensive for simply just the microcontroller
+    - Datasheet: https://cdn.shopify.com/s/files/1/0560/9455/6369/files/TL448K6D-VR_Datasheet_v1p1.pdf
+        - Local PDF copy: [TL448K6D-VR_Datasheet_v1p1.pdf](assets/TL448K6D-VR_Datasheet_v1p1.pdf)
+        > Only keeping on repo for the sake of documentation and data backups. Please reach out if there are concerns.
+
 
 ### Buttons
 Useful for many activities, like button pushing!

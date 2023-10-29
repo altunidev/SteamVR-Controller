@@ -8,3 +8,12 @@ Links and research I'll need to sort out later
 - https://github.com/ashtuchkin/vive-diy-position-sensor (credit Lynx)
 - https://github.com/matzman666/OpenVR-InputEmulator (credit JustinXenyx)
     - https://github.com/Louka3000/OpenVR-InputEmulator-Fixed (credit -Beige)
+
+- Various documentation bookmarks
+    - SteamVR / OpenVR documentation and wiki stuff
+        - https://developer.valvesoftware.com/wiki/SteamVR
+        - https://github.com/ValveSoftware/openvr/wiki/API-Documentation
+    - Tundra-Labs code (good starting point for Tundra Tracker Dev Board and TL448K6D)
+        - https://github.com/tundra-labs/rp2040_examples
+        - https://github.com/tundra-labs/TL448K6D24R-start | looking through the code, it seems rather empty unfortunately
+        - https://github.com/tundra-labs (there might be more useful stuff that I missed initially)

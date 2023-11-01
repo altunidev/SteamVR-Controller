@@ -18,6 +18,8 @@ For Beatsaber and other games where buttons aren’t as important. Occasionally 
 
 Potential "snap-on" detatchable batteries?
 
+https://old.reddit.com/r/beatsaber/comments/bn6e4u/ragesaqs_school_of_making_a_vive_tracker_maul/ (credit: ragesaq)
+
 # Grip-Button Controller
 Essentially imitating the Main Controller, but with three grip triggers rather than one. I don't know what to nickname this.
 

@@ -17,3 +17,6 @@ Links and research I'll need to sort out later
         - https://github.com/tundra-labs/rp2040_examples
         - https://github.com/tundra-labs/TL448K6D24R-start | looking through the code, it seems rather empty unfortunately
         - https://github.com/tundra-labs (there might be more useful stuff that I missed initially)
+
+- Existing designs
+    - https://old.reddit.com/r/beatsaber/comments/bn6e4u/ragesaqs_school_of_making_a_vive_tracker_maul/ (credit ragesaq)

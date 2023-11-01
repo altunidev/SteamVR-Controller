@@ -44,3 +44,6 @@ The idea is that the extra buttons may provide additional functionality without 
   - Scroll wheel / touchpad?
   - Trigger
   - Three individual finger grip triggers
+
+# Gamepad
+Essentially, a two-part controller like Nintendo Joycons that could be separate and held in each hand. However, these can be combined into a form factor closer to that of an Xbox or PlayStation controller. This may be by means of putting the two halves together and twisting into place, or snapping into a shell enclosure (like a Switch Joycon controller grip thingy).

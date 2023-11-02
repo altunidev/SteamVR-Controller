@@ -8,6 +8,21 @@ Links and research I'll need to sort out later
 - https://github.com/ashtuchkin/vive-diy-position-sensor (credit Lynx)
 - https://github.com/matzman666/OpenVR-InputEmulator (credit JustinXenyx)
     - https://github.com/Louka3000/OpenVR-InputEmulator-Fixed (credit -Beige)
+- HTC Vive Tracker 3.0 Pogo Pin Interfacing
+    - https://developer.vive.com/us/hardware/tracker3/ (official HTC page, doesn't give all that many resources unfortunately)
+    - Various forum posts
+        - https://forum.htc.com/topic/8133-getting-started-with-the-htc-vive-tracker-pose-input-via-pogo-pins-in-unreal-engine-424/
+        - https://forum.htc.com/topic/2589-vive-tracker-pogo-pin-hardware/
+            - https://www.thingiverse.com/thing:2127180
+            - https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/1946-0-00-15-00-00-03-0/5176096
+        - https://forum.htc.com/topic/1131-vive-tracker-pogo-pins/
+            - https://dl.vive.com/Tracker/Guideline/HTC_Vive_Tracker_Developer_Guidelines_v1.5.pdf ([local copy](assets/HTC_Vive_Tracker_Developer_Guidelines_v1.5.pdf))
+                - 2017 Documentation
+            - https://dl.vive.com/Tracker/Guideline/HTC_Vive_Tracker_Developer_Guidelines_v1.6.pdf ([local copy](assets/HTC_Vive_Tracker_Developer_Guidelines_v1.6.pdf))
+                - Updated for 2018 design -- using Vive Tracker 2.0 design. Found essentially by replacing the guide version number in the URL. Downloaded PDF's for the purpose of archiving documentation (if there is an issue with this, please reach out). I believe the Vive Tracker 3.0 mainly had alterations to the form factor (to be smaller) and battery (to be longer), however much of the functionality remains the same.
+    - The above few bullet points ultimately, some digging led me to this: https://developer.vive.com/resources/hardware-guides/vive-tracker-developer-guidelines/
+        - Which lead me to the appropriate documentation for the Vive Tracker 3.0: https://developer.vive.com/documents/850/HTC_Vive_Tracker_3.0_Developer_Guidelines_v1.1_06022021.pdf
+            - which now I have a [local copy here](assets/HTC_Vive_Tracker_3.0_Developer_Guidelines_v1.1_06022021.pdf).
 
 - Various documentation bookmarks
     - SteamVR / OpenVR documentation and wiki stuff

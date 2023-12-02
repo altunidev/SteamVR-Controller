@@ -6,7 +6,7 @@
 
 For making the BeatSaber sabers beat.
 
-- Existing SteamVR trackers (i.e. HTC Vive Tracker 2.0, 3.0, or Tundra Tracker)
+- Existing SteamVR trackers (i.e. HTC Vive Tracker 2.0, 3.0, Tundra Tracker, or eteeTracker)
 - Custom Solution
     - [Tundra Tracker IO Expansion Board](https://tundra-labs.com/products/tundra-tracker-io-expansion-board)
     - [Tundra Tracker Developer Board](https://tundra-labs.com/products/tundra-tracker-developer-board)

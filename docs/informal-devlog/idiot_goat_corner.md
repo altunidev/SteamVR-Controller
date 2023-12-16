@@ -82,7 +82,7 @@ Looking at the original task list, I find it impractical and... Maybe a little e
 
 I'll be sticking anything else I found in here and merging whenever a decent chunk rolls in.
 
-How did [HadesVR](https://github.com/HadesVR/HadesVR) do it? I know nothing about software or hardware development at all, but this seems promising. Just remove the tracking part from the controllers... I sent an email (I hope it's the right one) about it. I guess it depends on how tightly the parts are interconnected. While they focus more on emulating the Vive Wand or Index Knuckles specifically in regards to input, they got an input working, it looks like. I suppose, given the knowledge, one could modify it to pretend to be something else. Have sent an email to the main guy.
+How did [HadesVR](https://github.com/HadesVR/HadesVR) do it? I know nothing about software or hardware development at all, but this seems promising. Just remove the tracking part from the controllers... I sent an email (I hope it's the right one) about it. I guess it depends on how tightly the parts are interconnected. While they focus more on emulating the Vive Wand or Index Knuckles specifically in regards to input, they got an input working, it looks like. I suppose, given the knowledge, one could modify it to pretend to be something else.
 
 I'm going to be completely honest, I'm getting frustrated over the hype for those blasted [DIY gloves](https://github.com/LucidVR/opengloves-driver). Did they seriously choose to make gloves before releasing a basic controller API thing? Anyways, for anyone technically competent, is there something from this we'll be able to harvest?
 

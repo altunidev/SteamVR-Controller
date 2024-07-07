@@ -35,3 +35,5 @@ Links and research I'll need to sort out later
 
 - Existing designs
     - https://old.reddit.com/r/beatsaber/comments/bn6e4u/ragesaqs_school_of_making_a_vive_tracker_maul/ (credit ragesaq)
+ 
+- SteamVR Driver help: https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial

@@ -37,3 +37,4 @@ Links and research I'll need to sort out later
     - https://old.reddit.com/r/beatsaber/comments/bn6e4u/ragesaqs_school_of_making_a_vive_tracker_maul/ (credit ragesaq)
  
 - SteamVR Driver help: https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial
+- https://www.instructables.com/Arduino-LeonardoMicro-as-Game-ControllerJoystick/
